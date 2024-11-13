@@ -1,0 +1,261 @@
+/*         COUNTING       */
+/*
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+}
+#btnContainer{
+    text-align: center;   
+}
+.buttons{
+    padding: 10, 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: cyan;
+    background-color: hsl(214, 100%, 74%);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons.hover{
+    background-color: hsl(214, 100%, 56%);
+}
+*/
+
+
+
+
+/*              ROLL DICE       */
+/*
+body{
+    font-family: verdana; 
+    text-align: center;   
+}
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+.myLabels{
+    font-size: 3em;
+}
+*/
+
+
+
+/*                        TEMPERATURE CONVERSION   
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(0, 0%, 95%);
+}
+
+h1{
+    color: hsl(293, 85%, 37%);
+}
+
+form{
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 14px hsl(0, 0%, 0.3);
+}
+
+#textBox{
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid hsl(0, 0%, 0.8);
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+button{
+    margin-top: 15px;
+    background-color: hsl(0, 100%, 60%);
+    color: white;
+    font-size: 1.5em;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: hsl(0, 100%, 50%);
+}
+
+#result{
+    font-size: 1.75em;
+    font-weight: bold;
+}
+*/
+
+
+
+
+/*                              ROLLING DICE 
+#container{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: none;
+    background-color: aqua;
+    color: magenta;
+    font-weight: bold;
+    cursor: pointer;
+}
+button:hover{
+    background-color: skyblue;
+}
+button:active{
+    background-color: blue;
+}
+h1{
+    font-size: 50px;
+    color: red;
+}
+input{
+    font-size: 20px;
+    width: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+*/
+
+/*
+button{
+    font-size: 10rem;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: none;
+    background-color: aqua;
+    color: magenta;
+    font-weight: bold;
+    cursor: pointer;
+}
+*/
+
+
+
+
+/*--------------------------DIGITAL CLOCK PROGRAM------------------
+/**/
+body{
+    background-image: url("paul.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+
+}
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 3px solid;
+}
+#clock{
+    font-family: monospace;
+    font-size: 20rem;
+    font-weight: bold;
+    text-align: center;
+    color: magenta;
+    background-color: skyblue;
+}
+
+
+
+/*          -------------------------------STOPWATCH--------------------------- */
+/*
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(0, 225, 255);
+}
+
+#myH1 {
+    font-size: 4rem;
+    font-family: "Arial", sans-serif;
+    color: red;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid;
+    padding: 50px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+#display {
+    font-size: 10em;
+    font-family: serif;
+    font-weight: bold;
+    color: fuchsia;
+    text-shadow: 2px 2px 2px black;
+    margin-bottom: 50px;
+}
+
+#controls button {
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 30px;
+    margin: 5px;
+    border: none;
+    min-width: 125px;
+    cursor: pointer;
+    color: black;
+    transition: background-color 05.s ease;
+    background-color: aqua;
+
+}
+
+#startBtn:hover {
+    background-color: red; 
+}
+
+#stopBtn:hover {
+    background-color: pink; 
+}
+
+#resetBtn:hover {
+    background-color: red; 
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
